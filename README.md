@@ -36,6 +36,6 @@ https://docs.google.com/presentation/d/1ww5qf22RXpZ9dHm3nVQrwmjkTZF2H-s2U4cPCq_P
 
 ## The Team
 - Zirui (Sherry) Kuai : https://www.linkedin.com/in/zirui-kuai-449501b0/
-- Andrea Eunbee Jang : linkedin.com/in/andreaejang
-- Airi Chow : linkedin.com/in/airi-chow-6314b9159
-- Earl Aromin : linkedin.com/in/earomin
+- Andrea Eunbee Jang : https://www.linkedin.com/in/andreaejang
+- Airi Chow : https://www.linkedin.com/in/airi-chow-6314b9159
+- Earl Aromin : https://www.linkedin.com/in/earomin
