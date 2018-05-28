@@ -27,5 +27,15 @@ Possible improvements in the future include:
 An interactive UI/UX mobile application
 Collection of a larger dataset
 Increased complexity of the model to classify more sound parameters
+
 ## Potential application of our deep learning model
-Sound classification is a big question to solve in AI and presently most are done in the domain of speech recognition. We believe that we can use our model to contribute to the classification of sound in other areas of �domain to better support both hearing and hearing-impaired community.
+The focus of sound classification in present AI field is predominantly in speech recognition. We believe that our project can help contribute to the study of other areas of sound domains to better support both hearing and hearing-impaired community.
+
+## Presentation slide
+https://docs.google.com/presentation/d/1ww5qf22RXpZ9dHm3nVQrwmjkTZF2H-s2U4cPCq_Padw/edit?usp=sharing
+
+## The Team
+- Zirui (Sherry) Kuai : https://www.linkedin.com/in/zirui-kuai-449501b0/
+- Andrea Eunbee Jang : https://www.linkedin.com/in/andreaejang
+- Airi Chow : https://www.linkedin.com/in/airi-chow-6314b9159
+- Earl Aromin : https://www.linkedin.com/in/earomin
