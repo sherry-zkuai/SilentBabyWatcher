@@ -35,7 +35,7 @@ The focus of sound classification in present AI field is predominantly in speech
 https://docs.google.com/presentation/d/1ww5qf22RXpZ9dHm3nVQrwmjkTZF2H-s2U4cPCq_Padw/edit?usp=sharing
 
 ## The Team
-- Zirui (Sherry) Kuai : https://www.linkedin.com/in/zirui-kuai-449501b0/
+- Zirui (Sherry) Kuai : https://www.linkedin.com/in/zirui-kuai/
 - Andrea Eunbee Jang : https://www.linkedin.com/in/andreaejang
 - Airi Chow : https://www.linkedin.com/in/airi-chow-6314b9159
 - Earl Aromin : https://www.linkedin.com/in/earomin
